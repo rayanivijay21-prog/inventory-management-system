@@ -1,0 +1,23 @@
+{
+  "HP": {
+    "quantity": 2,
+    "price": 30000.0,
+    "category": "Electronics",
+    "threshold": 3,
+    "supplier": "ABS"
+  },
+  "Dell": {
+    "quantity": 5,
+    "price": 45000.0,
+    "category": "Electronics",
+    "threshold": 1,
+    "supplier": "SDF"
+  },
+  "Chocolates": {
+    "quantity": 50,
+    "price": 25.0,
+    "category": "Food",
+    "threshold": 15,
+    "supplier": "ABC"
+  }
+}
